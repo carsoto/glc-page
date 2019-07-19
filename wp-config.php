@@ -23,12 +23,12 @@ define('DB_NAME', 'dbglc');
 
 /** Tu nombre de usuario de MySQL */
 //define('DB_USER', 'dbglc');
-define('DB_USER', 'root');
+define('DB_USER', 'galapagosone');
 
 
 /** Tu contraseña de MySQL */
 //define('DB_PASSWORD', 'Galapagos1!');
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', '63UQ1IX7bEo1');
 
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
